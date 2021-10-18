@@ -10,10 +10,10 @@
         android:id="@+id/linearLayout"
         android:layout_width="419dp"
         android:layout_height="111dp"
-        android:layout_marginTop="140dp"
+        android:layout_marginTop="40dp"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.39"
+        app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -41,7 +41,7 @@
         android:id="@+id/button"
         android:layout_width="246dp"
         android:layout_height="0dp"
-        android:layout_marginTop="116dp"
+        android:layout_marginTop="56dp"
         android:text="Multiply"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -56,8 +56,8 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.451"
+        app:layout_constraintHorizontal_bias="0.521"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        app:layout_constraintVertical_bias="0.551" />
+        app:layout_constraintVertical_bias="0.112" />
 </androidx.constraintlayout.widget.ConstraintLayout>
